@@ -11,7 +11,7 @@ The concept is not to identify attraction directly, but to detect changes in amb
 
 ## Core Idea
 
-[scanner](https://github.com/willWallace-RIT/Smellsensor/blob/main/InShot_20260516_192108368.gif)
+![scanner](https://github.com/willWallace-RIT/Smellsensor/blob/main/InShot_20260516_192108368.gif)
 
 A smartphone or companion device equipped with environmental chemical sensors could:
 
